@@ -1,10 +1,6 @@
-# [Nexus for FRC](https://frc.nexus)
+# [Nexus for FRC](https://frc.nexus), [Nexus for FTC](https://ftc.nexus), [Nexus for FLL](https://fll.nexus)
 
-A web-based event management system designed to improve the team experience at FRC events.
+Web-based event management systems designed to improve the team experience at FIRST events.
 
 ## Bugs/Feature requests
-[File issues here](https://github.com/frc-queue/frc-queue/issues/new) to report bugs or request new features.
-
-## Change log
-
-The change log has been moved to [guides.frc.nexus/changelog](https://guides.frc.nexus/changelog).
+[File issues here](https://github.com/NexusRoboticsFoundation/Nexus-Public/issues/new) to report bugs or request new features.
